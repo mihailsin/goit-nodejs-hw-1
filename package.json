@@ -1,0 +1,27 @@
+{
+  "name": "goit-nodejs-hw-1",
+  "version": "1.0.0",
+  "description": "GoIT node.js 1st hometask",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihailsin/goit-nodejs-hw-1.git"
+  },
+  "author": "mihailsin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihailsin/goit-nodejs-hw-1/issues"
+  },
+  "homepage": "https://github.com/mihailsin/goit-nodejs-hw-1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "nanoid": "^3.3.4"
+  }
+}
